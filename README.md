@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  # ***hello world*** , my name is Draco(my internet name).
-# i work with low-level language and maths inthusiast
+# i work with low-level language and maths enthusiast
 
  - 🔭 I’m currently working on my own projects
  - 🌱 I’m currently learning c/c++
